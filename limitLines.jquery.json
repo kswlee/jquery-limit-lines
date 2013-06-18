@@ -1,0 +1,30 @@
+{
+  "name": "limitLines",
+  "title": "jQuery limitLines",
+  "description": "A plugin to limit the maximum input lines of contenteditable div",
+  "keywords": [
+    "contenteditable",
+    "lines-limit",
+    "line-height"    
+  ],
+  "version": "1.0.0",
+  "author": {
+    "name": "Kenny.SW Lee",
+    "email": "kswlee@gmail.com",
+    "url": "http://www.kennylee.co"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Boldewyn/jQuery.exdent/blob/master/LICENSE.MIT"
+    }
+  ],
+  "bugs": "https://github.com/kswlee/jquery-limit-lines/issues",
+  "homepage": "http://kswlee.github.com/jquery-limit-lines/",
+  "docs": "http://kswlee.github.com/jquery-limit-lines/",
+  "download": "https://kswlee.github.com/jquery-limit-lines/",
+  "demo": "",
+  "dependencies": {
+    "jquery": ">=1.8"
+  }
+}
