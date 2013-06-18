@@ -10,4 +10,4 @@ Page: http://kswlee.github.io/jquery-limit-lines/
     	});
 
 ## Example
-See <http://jsbin.com/asamiv/2/>.
+See <http://jsbin.com/asamiv/3/>.
