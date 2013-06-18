@@ -1,6 +1,7 @@
 # jQuery limitLines plugin
 
-A plugin to limit the maximum input lines of contenteditable div
+A plugin to limit the maximum input lines of contenteditable div  
+Page: http://kswlee.github.io/jquery-limit-lines/
   
 ## Usage
 
