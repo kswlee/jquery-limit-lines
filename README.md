@@ -9,3 +9,4 @@ A plugin to limit the maximum input lines of contenteditable div
     	});
 
 ## Example
+See <http://jsbin.com/asamiv/2/>.

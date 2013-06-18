@@ -23,7 +23,7 @@
   "homepage": "http://kswlee.github.com/jquery-limit-lines/",
   "docs": "http://kswlee.github.com/jquery-limit-lines/",
   "download": "https://kswlee.github.com/jquery-limit-lines/",
-  "demo": "",
+  "demo": "http://jsbin.com/asamiv/2/",
   "dependencies": {
     "jquery": ">=1.8"
   }
